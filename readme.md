@@ -1,6 +1,6 @@
 # Machine Learning using C++
 
-This project is intentended to implement machine learning algorithm like
+This project intends to implement machine learning algorithm like
 
 - Linear Regression
 - Logistic Regression
